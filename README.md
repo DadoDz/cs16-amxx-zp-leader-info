@@ -30,5 +30,5 @@ This plugin uses custom natives to get points and ammo packs, you must change th
 - ```native zp_get_user_points(index)```
 
 ## Notice
-> Leaderboard systems already exist, this plugin was originally created for my own server.
+> Leader info plugins already exist, this one was originally created for my own server.
 > The current version was adapted for Zombie Plague, but it can easily be modified to support other mods.
